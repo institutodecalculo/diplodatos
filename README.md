@@ -93,10 +93,6 @@ For more information, see [the Jekyll variables documentation](https://jekyllrb.
 
 See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
 
-## Project philosophy
-
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
 ## Contributing
 
 Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
