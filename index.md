@@ -5,7 +5,7 @@ Aprobada UBA s/ Resolución CD-2023-2779: EX-2023-07317142- -UBA-DMESA#FCEN
 
 #### Equipo docente
 
-[Dr. Soledad Fernández](./another-page.html).
+[Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad).
 
 [Lic. Natalia Kontorovsky](./another-page.html).
 
