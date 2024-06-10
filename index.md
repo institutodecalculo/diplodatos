@@ -13,7 +13,7 @@ Aprobada UBA s/ Resolución CD-2023-2779: EX-2023-07317142- -UBA-DMESA#FCEN
 
 [Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html).
 
-[Mg. Adriana Pérez](./another-page.html).
+[Mg. Adriana Pérez](https://www.ic.fcen.uba.ar/ceecs/carrera/docentes/perez-adriana).
 
 [Dr. Guillermo Solovey](./another-page.html).
 
