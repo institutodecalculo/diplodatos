@@ -5,17 +5,17 @@ Aprobada UBA s/ Resolución CD-2023-2779: EX-2023-07317142- -UBA-DMESA#FCEN
 
 #### Equipo docente
 
-[Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad).
+[Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad)
 
-[Lic. Natalia Kontorovsky](https://ic.fcen.uba.ar/institucional/integrantes/natalia-kontorovsky).
+[Lic. Natalia Kontorovsky](https://ic.fcen.uba.ar/institucional/integrantes/natalia-kontorovsky)
 
-[Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/).
+[Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/)
 
-[Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html).
+[Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html)
 
-[Mg. Adriana Pérez](https://www.ic.fcen.uba.ar/ceecs/carrera/docentes/perez-adriana).
+[Mg. Adriana Pérez](https://www.ic.fcen.uba.ar/ceecs/carrera/docentes/perez-adriana)
 
-[Dr. Guillermo Solovey](https://gsolovey.netlify.app/).
+[Dr. Guillermo Solovey](https://gsolovey.netlify.app/)
 
 // There should be whitespace between paragraphs.
 
