@@ -7,6 +7,14 @@ layout2: default2
 
 [Dr. Soledad Fernández](./another-page.html).
 
+[Lic. Natalia Kontorovsky](./another-page.html).
+
+[Lic. Pablo Mislej](./another-page.html).
+
+[Mg. Daniela Parada](./another-page.html).
+
+[Mg. Adriana Pérez](./another-page.html).
+
 [Dr. Guillermo Solovey](./another-page.html).
 
 There should be whitespace between paragraphs.
