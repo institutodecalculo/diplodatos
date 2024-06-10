@@ -1,7 +1,7 @@
 ---
-Aprobada FoPeCap: ACTA N° 11 – 2023
+Aprobada FoPeCap s/ ACTA N° 11 – 2023:
 Expediente EX-2023-137251889- -APNSGYEP#JGM
-Aprobada UBA: Resolución CD-2023-2779
+Aprobada UBA s/ Resolución CD-2023-2779:
 Expediente EX-2023-07317142- -UBA-DMESA#FCEN
 ---
 
