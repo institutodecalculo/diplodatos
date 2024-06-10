@@ -1,6 +1,6 @@
 ---
-Aprobada FoPeCap: Expediente EX-2023-137251889- -APNSGYEP#JGM
-layout2: default2
+Aprobada FoPeCap: Expediente EX-2023-137251889- -APNSGYEP#JGM: bla bla
+layout2: default2: bla bla
 ---
 
 #### Equipo docente
