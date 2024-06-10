@@ -11,7 +11,7 @@ Aprobada UBA s/ Resolución CD-2023-2779: EX-2023-07317142- -UBA-DMESA#FCEN
 
 [Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/).
 
-[Mg. Daniela Parada](./another-page.html).
+[Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html).
 
 [Mg. Adriana Pérez](./another-page.html).
 
