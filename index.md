@@ -5,6 +5,7 @@ layout2: default2
 
 #### Equipo docente
 
+[Dr. Soledad Fernández](./another-page.html).
 [Dr. Guillermo Solovey](./another-page.html).
 
 There should be whitespace between paragraphs.
