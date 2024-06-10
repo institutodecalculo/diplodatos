@@ -15,7 +15,7 @@ Aprobada UBA s/ Resolución CD-2023-2779: EX-2023-07317142- -UBA-DMESA#FCEN
 
 [Mg. Adriana Pérez](https://www.ic.fcen.uba.ar/ceecs/carrera/docentes/perez-adriana).
 
-[Dr. Guillermo Solovey](./another-page.html).
+[Dr. Guillermo Solovey](https://gsolovey.netlify.app/).
 
 There should be whitespace between paragraphs.
 
