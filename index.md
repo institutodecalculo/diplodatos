@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#### Equipo docente
 
-[Link to another page](./another-page.html).
+[Dr. Guillermo Solovey](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -37,7 +37,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
