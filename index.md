@@ -1,7 +1,6 @@
 ---
-layout: default
----
-layout: default
+layout: default1
+layout: default2
 ---
 
 #### Equipo docente
