@@ -4,12 +4,12 @@ layout: default
 
 #### Equipo docente
 
-[Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad)
-[Lic. Natalia Kontorovsky](https://ic.fcen.uba.ar/institucional/integrantes/natalia-kontorovsky)
-[Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/)
-[Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html)
-[Mg. Adriana Pérez](https://www.ic.fcen.uba.ar/ceecs/carrera/docentes/perez-adriana)
-[Dr. Guillermo Solovey](https://gsolovey.netlify.app/)
+ *   [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad)
+ *   [Lic. Natalia Kontorovsky](https://ic.fcen.uba.ar/institucional/integrantes/natalia-kontorovsky)
+ *   [Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/)
+ *   [Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html)
+ *   [Mg. Adriana Pérez](https://www.ic.fcen.uba.ar/ceecs/carrera/docentes/perez-adriana)
+ *   [Dr. Guillermo Solovey](https://gsolovey.netlify.app/)
 
 <!--
 
