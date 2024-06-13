@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### CURRÍCULA DE CURSOS
+#### CURRÍCULA DE CURSOS
 
 1. [IRD] **Introducción al Razonamiento con Datos** (extensión: 9 semanas
 2. [IEE] **Introducción a la Exploración Estadística** (extensión: 9 semanas)
