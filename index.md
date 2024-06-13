@@ -6,8 +6,8 @@ layout: default
 
 1. **Introducción al Razonamiento con Datos** - IRD (extensión: 9 semanas
 2. **Introducción a la Exploración Estadística** - IEE (extensión: 9 semanas)
-3. **Datos e Información** - DeI  (extensión: 9 semanas; requiere tener aprobados IRD e IEE)
-4. **Técnicas de Análisis de Datos** - TAD (extensión: 9 semanas; requiere tener aprobados IRD e IEE)
+3. **Datos e Información** - DeI  (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
+4. **Técnicas de Análisis de Datos** - TAD (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
 
 #### Equipo docente
 
