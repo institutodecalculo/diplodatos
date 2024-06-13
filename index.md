@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### PROOPUESTA
+### PROPUESTA
 
 1. Curso "Introducción al Razonamiento con Datos" (IRD, extensión: 9 semanas)
 2. Curso "Introducción a la Exploración Estadística" (IRD, extensión: 9 semanas)
