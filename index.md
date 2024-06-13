@@ -1,6 +1,5 @@
 ---
-Aprobada FoPeCap s/ ACTA N° 11 – 2023: EX-2023-137251889- -APNSGYEP#JGM
-Aprobada UBA#FCEN s/ RESCD-23-2779: EX-2023-07317142- -UBA-DMESA#FCEN refrendada 10-04-24 en CS
+layout: default
 ---
 
 #### Equipo docente
