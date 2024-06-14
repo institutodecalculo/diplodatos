@@ -6,10 +6,13 @@ layout: default
 
 1. [IRD] **Introducción al Razonamiento con Datos** (extensión: 9 semanas
    - _Inicia próximamente en la semana del 5-9 Agosto 2024_
+     
 3. [IEE] **Introducción a la Exploración Estadística** (extensión: 9 semanas)
    - _Inicia próximamente en la semana del 5-9 Agosto 2024_
+   - 
 5. [DeI] **Datos e Información** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
-6. [TAD] **Técnicas de Análisis de Datos** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
+   
+7. [TAD] **Técnicas de Análisis de Datos** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
 
 #### Equipo docente
 
