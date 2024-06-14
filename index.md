@@ -5,9 +5,11 @@ layout: default
 #### CURRÍCULA DE CURSOS
 
 1. [IRD] **Introducción al Razonamiento con Datos** (extensión: 9 semanas
-2. [IEE] **Introducción a la Exploración Estadística** (extensión: 9 semanas)
-3. [DeI] **Datos e Información** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
-4. [TAD] **Técnicas de Análisis de Datos** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
+   - level 2 item
+3. [IEE] **Introducción a la Exploración Estadística** (extensión: 9 semanas)
+   - level 2 item
+5. [DeI] **Datos e Información** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
+6. [TAD] **Técnicas de Análisis de Datos** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
 
 #### Equipo docente
 
