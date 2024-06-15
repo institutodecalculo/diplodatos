@@ -14,9 +14,18 @@ layout: default
    
 7. [TAD] **Técnicas de Análisis de Datos** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
 
-#### Equipo docente
+#### Equipo
 
- *   [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad)
+ | docente      | IRD | IEE | DeI | TAD |
+ |:-------------|:----|:----|:----|:----|
+ | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
+ | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
+ | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
+ | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
+ | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
+ | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
+ | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
+
  *   [Lic. Natalia Kontorovsky](https://ic.fcen.uba.ar/institucional/integrantes/natalia-kontorovsky)
  *   [Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/)
  *   [Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html)
