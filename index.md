@@ -5,7 +5,7 @@ layout: default
 #### CURRÍCULA DE CURSOS
 
 1. [IRD] **Introducción al Razonamiento con Datos** (extensión: 9 semanas
-   - _Inicia próximamente en la semana del 5-9 Agosto 2024_
+   <span style="color:blue">some *blue* text- _Inicia próximamente en la semana del 5-9 Agosto 2024_</span>
      
 3. [IEE] **Introducción a la Exploración Estadística** (extensión: 9 semanas)
    - _Inicia próximamente en la semana del 5-9 Agosto 2024_
