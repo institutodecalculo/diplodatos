@@ -19,18 +19,11 @@ layout: default
  | docente      | IRD | IEE | DeI | TAD |
  |:-------------|:----|:----|:----|:----|
  | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
- | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
- | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
- | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
- | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
- | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
- | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
-
- *   [Lic. Natalia Kontorovsky](https://ic.fcen.uba.ar/institucional/integrantes/natalia-kontorovsky)
- *   [Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/)
- *   [Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html)
- *   [Mg. Adriana Pérez](https://www.ic.fcen.uba.ar/ceecs/carrera/docentes/perez-adriana)
- *   [Dr. Guillermo Solovey](https://gsolovey.netlify.app/)
+ | [Lic. Natalia Kontorovsky](https://ic.fcen.uba.ar/institucional/integrantes/natalia-kontorovsky) |  |  | x |  |
+ | [Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/) |  |  | x |  |
+ | [Mg. Daniela Parada](https://daniellaparada.github.io/personal/about.html) |  |  | x |  |
+ | [Mg. Adriana Pérez](https://www.ic.fcen.uba.ar/ceecs/carrera/docentes/perez-adriana) |  |  | x |  |
+ | [Dr. Guillermo Solovey](https://gsolovey.netlify.app/) |  |  | x |  |
 
 <!--
 
