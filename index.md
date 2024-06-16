@@ -17,7 +17,7 @@ layout: default
 #### Equipo
 
  | docente      | IRD | IEE | DeI | TAD |
- |:-------------|:----|:----|:----|:----|
+ |:-------------|--:--|--:--|--:--|--:--|
  | [Dr. Soledad Fernández](https://ic.fcen.uba.ar/institucional/integrantes/fernandezmariasoledad) |  |  | x |  |
  | [Lic. Natalia Kontorovsky](https://ic.fcen.uba.ar/institucional/integrantes/natalia-kontorovsky) |  |  | x |  |
  | [Lic. Pablo Mislej](https://mate.dm.uba.ar/~pfmislej/) |  |  | x |  |
