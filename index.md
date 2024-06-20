@@ -5,9 +5,9 @@ layout: default
 #### CURRÍCULA DE CURSOS
 
 1. [IRD] **Introducción al Razonamiento con Datos** (extensión: 9 semanas
-   - <span style="color:red">_Inicia nueva cohorte el 9 de Agosto 2024_</span> → [LINK PARA INSCRIPCIÓN]
+   - <span style="color:red">_Inicia nueva cohorte el 9 de Agosto 2024_</span> → [LINK PARA INSCRIPCIÓN]()
 3. [IEE] **Introducción a la Exploración Estadística** (extensión: 9 semanas)
-   - <span style="color:red">_Inicia nueva cohorte el 7 de Agosto 2024_</span> → [LINK PARA INSCRIPCIÓN]
+   - <span style="color:red">_Inicia nueva cohorte el 7 de Agosto 2024_</span> → [LINK PARA INSCRIPCIÓN]()
 5. [DeI] **Datos e Información** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
    
 7. [TAD] **Técnicas de Análisis de Datos** (extensión: 9 semanas; requiere haber aprobado IRD e IEE)
