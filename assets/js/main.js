@@ -1,4 +1,4 @@
-var sectionHeight = function() {
+/*var sectionHeight = function() {
   var total    = $(window).height(),
       $section = $('section').css('height','auto');
 
@@ -31,4 +31,4 @@ $(function() {
 
   $('img').on('load', sectionHeight);
 });
-
+*/
